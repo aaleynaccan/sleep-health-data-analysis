@@ -53,3 +53,10 @@ The dashboards include:
 - Project presentation
 - Dashboard export (PDF)
 - Project summary documentation
+- ## Dataset Source
+This project uses a publicly available dataset from Kaggle.
+
+## Author
+Aleyna Can  
+MBA – Business Analytics  
+Palm Beach Atlantic University
